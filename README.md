@@ -1,2 +1,3 @@
 # DigitalClock
-A digital clock that represents real accurate time
+Using python and tkinter
+A GUI digital clock that represents real accurate time
